@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+MPE SANITAIRE Sarl
 
-Template Name: Tempo
-Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Developed by : Triple F
+wwww.triplef-ks.tk
